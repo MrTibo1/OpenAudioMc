@@ -8,7 +8,7 @@ ui.loading=Loading...
 ui.logout=Log out
 
 ui.urlChangeDetected=URL change detected
-ui.hashchange=The URL has been changed. Do you want to reload the page and start a new session? this will clear your current session.
+ui.hashchange=The URL has been changed. Do you want to reload the page and start a new session? This will clear your current session.
 
 navbar.audio=Server Audio
 navbar.vc=VoiceChat
